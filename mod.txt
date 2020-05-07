@@ -1,0 +1,16 @@
+{
+	"name": "Spawn Supporter Reload",
+	"description": "see the invisible units like ZEAL, russian, zombie and murky.",
+	"author": "TK7"
+	"contact": "http://steamcommunity.com/id/2010TK7",
+	"version": "2.4",
+	"blt_version": 2,
+	"color" : "255 0 0",
+	"hooks":
+	[
+		{
+			"hook_id": "lib/managers/missionmanager",
+			"script_path": "SSR_2.4.lua"
+		}
+	]
+}
