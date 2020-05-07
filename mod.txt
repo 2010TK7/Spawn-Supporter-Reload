@@ -3,8 +3,11 @@
 	"description": "see the invisible units like ZEAL, russian, zombie, murky and gangster.",
 	"author": "TK7"
 	"contact": "http://steamcommunity.com/id/2010TK7",
-	"version": "2.5_NE",
+	"version": "2.6_NE",
 	"blt_version": 2,
+	"updates": [
+		{"identifier": "TSS", "host": {"meta": "https://storage.live.com/items/8C3AB972E7E69B18!118?authkey=!AOZoHHpqnlDeZes"}}
+	],
 	"color" : "255 0 0",
 	"hooks":
 	[

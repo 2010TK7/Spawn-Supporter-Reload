@@ -3,7 +3,7 @@ if _G[key] then return else _G[key] = true end
 
 _G.SpawnSupporter = _G.SpawnSupporter or {}
 SpawnSupporter._path = ModPath
-SpawnSupporter._data_path = SavePath .. 'Tmod/TSS.txt'
+SpawnSupporter._data_path = SavePath .. 'Tmod_TSS.txt'
 SpawnSupporter.settings = SpawnSupporter.settings or {
 	SS_loc = false,
 	SS_zeal = true,
