@@ -1,0 +1,16 @@
+{
+	"SS_menu_title": "Spawn Supporter Reload",
+	"SS_menu_desc": "Close some for quickly load game(maybe).",
+	"SS_loc_title": "sChinese",
+	"SS_loc_desc": "",
+	"SS_zeal_title": "Zeal team",
+	"SS_zeal_desc": "Allow Zeal team spawn",
+	"SS_russia_title": "Russia Mercenary",
+	"SS_russia_desc": "Allow Russia Mercenary spawn",
+	"SS_zombie_title": "Zombie SWAT",
+	"SS_zombie_desc": "Allow Zombie SWAT spawn",
+	"SS_murkywater_title": "Murkywater & Shadow Cloaker",
+	"SS_murkywater_desc": "Allow Murkywater and Shadow Cloaker spawn",
+	"SS_bolivian_title": "Sosa and bolivian",
+	"SS_bolivian_desc": "that's it."
+}
